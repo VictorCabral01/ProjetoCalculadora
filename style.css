@@ -1,0 +1,64 @@
+
+.tela{
+    width: 193px;
+    height: 32px;
+    border: 1px solid black;
+    margin:10px 0px 15px 8px;
+    text-align: right;
+    font-size: 26px;
+    background-color: white;
+}
+
+.bordas{
+    border: 1px solid black;
+    width: 210px;
+    margin-left: 550px;
+    margin-top: 200px;
+    height: 250px;
+    background-color: rgb(92, 89, 89);
+
+}
+
+
+
+
+button{
+    
+    display: inline-block;
+    width: 40px;
+    margin-top: 5px;
+    margin-left: 8px;
+    height: 30px;
+    
+}
+
+
+input{
+    width: 162px;
+    height: 30px;
+}
+
+
+
+.c{
+    width: 92px;
+    color: red;
+}
+
+.zero{
+    width: 92px;
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(calculadora.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+
+}
